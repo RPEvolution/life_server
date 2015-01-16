@@ -1,4 +1,0 @@
-Life-Server
-===========
-
-Life Server
